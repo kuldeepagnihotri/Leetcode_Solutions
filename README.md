@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0799-champagne-tower](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0401-binary-watch) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
