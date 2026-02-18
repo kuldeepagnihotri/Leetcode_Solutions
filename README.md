@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
