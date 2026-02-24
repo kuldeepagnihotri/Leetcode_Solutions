@@ -40,16 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
