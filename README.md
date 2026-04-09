@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
