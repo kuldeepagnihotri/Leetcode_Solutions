@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 ## Graph Theory
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
