@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 ## Tree
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
