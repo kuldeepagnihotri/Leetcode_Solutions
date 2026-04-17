@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
+| [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
