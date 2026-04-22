@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Dynamic Programming
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
