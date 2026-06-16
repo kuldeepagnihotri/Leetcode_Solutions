@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 ## Graph Theory
 |  |
