@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Database
