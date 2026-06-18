@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
