@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 ## Graph Theory
