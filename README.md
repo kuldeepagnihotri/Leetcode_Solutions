@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2463-minimum-total-distance-traveled](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2615-sum-of-distances](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
