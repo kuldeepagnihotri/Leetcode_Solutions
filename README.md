@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Math
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Sorting
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
