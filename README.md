@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
