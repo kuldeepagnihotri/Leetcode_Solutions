@@ -215,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
