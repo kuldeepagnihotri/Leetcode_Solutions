@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0273-integer-to-english-words](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0877-stone-game) |
