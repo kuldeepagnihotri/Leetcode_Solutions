@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
