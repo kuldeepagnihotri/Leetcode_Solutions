@@ -1,18 +1,19 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long rev = 0;
+        long long n = x;
+        bool negative =n<0;
+        if(negative)
+        n=-n;
+        string s = to_string(n);
+        std::reverse(s.begin(),s.end());
 
-        while (x != 0) {
-            int digit = x % 10;
-            rev = rev * 10 + digit;
-
-            if (rev > INT_MAX || rev < INT_MIN)
-                return 0;
-
-            x /= 10;
-        }
-
-        return rev;
+        long long y = stoll(s);
+        if(negative)
+        y=-y;
+        if(y>INT_MAX || y<INT_MIN) return 0;
+    
+        return(int)y;
+        
     }
 };
