@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
