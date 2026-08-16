@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
