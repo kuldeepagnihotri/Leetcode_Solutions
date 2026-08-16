@@ -1,31 +1,35 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        vector<int> st;
-
-        for(int a : asteroids) {
-            bool destroyed = false;
-
-            while(!st.empty() && st.back() > 0 && a < 0) {
-                if(abs(st.back()) < abs(a)) {
-                    st.pop_back(); // stack wala gaya
+        stack<int>st;
+        for(int &a : asteroids){
+            //when collision happens
+            while( !st.empty() && a<0 && st.top()>0){
+                int sum = a+st.top();
+                if(sum<0){
+                    st.pop();
+                   } else if(sum>0){
+                        a=0;
+                        break;
+                    }else{
+                        st.pop();
+                        a=0;
+                    }
                 }
-                else if(abs(st.back()) == abs(a)) {
-                    st.pop_back(); // dono gaye
-                    destroyed = true;
-                    break;
-                }
-                else {
-                    destroyed = true; // current wala gaya
-                    break;
+                if(a!=0){
+                    st.push(a);
                 }
             }
-
-            if(!destroyed) {
-                st.push_back(a);
+            int s = st.size();
+            vector<int>result(s);
+            int i =s-1;
+            while(!st.empty()){
+                result[i]=st.top();
+                st.pop();
+                i--;
             }
+            return result;
         }
 
-        return st;
-    }
+    
 };
