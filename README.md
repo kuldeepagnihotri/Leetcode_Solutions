@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
@@ -392,4 +396,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
