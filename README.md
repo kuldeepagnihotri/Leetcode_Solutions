@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
