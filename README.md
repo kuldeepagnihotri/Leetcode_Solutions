@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Trie
 |  |
@@ -474,4 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
