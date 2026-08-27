@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0962-maximum-width-ramp) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
