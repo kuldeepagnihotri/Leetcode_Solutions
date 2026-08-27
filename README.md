@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
