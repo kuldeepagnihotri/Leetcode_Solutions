@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
