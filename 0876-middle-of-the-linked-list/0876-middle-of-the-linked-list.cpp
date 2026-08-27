@@ -8,26 +8,16 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- // brute force
+ // optimal approach(TORTOISE & HARE ALGO)
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int count=0;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
-        
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!= NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-         int middle=(count/2)+1;
-        temp=head;
-        while(temp!=NULL){
-            middle--;
-            if(middle==0)break;
-
-            temp=temp->next;
-        }
-        return temp;
+        return slow;
     }
 };
