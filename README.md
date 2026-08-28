@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
 ## Combinatorics
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
 ## Queue
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
