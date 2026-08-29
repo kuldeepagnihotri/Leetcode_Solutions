@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0962-maximum-width-ramp](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -534,8 +538,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [3829-design-ride-sharing-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
