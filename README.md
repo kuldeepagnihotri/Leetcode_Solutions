@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Combinatorics
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3829-design-ride-sharing-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -527,8 +529,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3815-design-auction-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
