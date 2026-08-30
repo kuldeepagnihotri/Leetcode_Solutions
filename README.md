@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0962-maximum-width-ramp) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
