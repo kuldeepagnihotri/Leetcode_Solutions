@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
