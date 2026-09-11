@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0962-maximum-width-ramp) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
