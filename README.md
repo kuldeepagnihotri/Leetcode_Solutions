@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -578,4 +582,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
