@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
