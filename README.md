@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kuldeepagnihotri/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
